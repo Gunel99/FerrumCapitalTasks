@@ -50,5 +50,5 @@ Answer:
 Answer:
     Scope defines the accessibility of variables. In javascript, there are 3 types of scope: 
     block scope, global scope, function scope. Previously there were 2 scopes: global and function.
-    When 'let' and 'const' keywords begin to use with ES6, so, a block scope ocurred. I show more detail about the scope with codes.
+    When 'let' and 'const' keywords begin to use with ES6, so, a block scope ocurred. I show more detail about the scope with codes
 
