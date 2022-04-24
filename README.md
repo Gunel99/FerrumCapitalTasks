@@ -8,7 +8,7 @@ In javascript, there are 7 data types: number, string, boolean, symbol, object, 
 Answer:
 In javascript, a closure is a function that references variables in the outer scope from its inner scope. So, we get variables in the outer scope and operate on them in the inner scope. It is called a closure.
 
-3- Question 3: What are favorite features of HTML5?
+3) Question 3: What are favorite features of HTML5?
 
 Answer: 1) header, footer, main, artice, section, aside, nav tags - We was using them as class to build a layout of page in Html4. For ex: <div class="article">, <div class="header"> and so on. In Html5, we can already use them as tag.
 
